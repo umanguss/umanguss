@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Umang Singh</h1>
-<h3 align="center">A passionate developer!</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">A passionate learner</h3>
+<img align="right" alt="Coding" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRtcHhuZ2RmMXR0eWF3aGZsZ3FpZHlmanc5emFsNDNxOTM5NTd1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 
 [![](https://visitcount.itsvg.in/api?id=umanguss&icon=0&color=0)](https://visitcount.itsvg.in)
 
