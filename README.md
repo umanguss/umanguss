@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/umang_uss" target="blank"><img src="https://img.shields.io/twitter/follow/umang_uss?logo=twitter&style=for-the-badge" alt="umang_uss" /></a> </p>
 
-- 🌱 I’m currently learning **JS**
+<!-- - 🌱 I’m currently learning **JS** -->
 
 - 📫 How to reach me **us706235@gmail.com**
 
