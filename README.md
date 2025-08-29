@@ -39,7 +39,7 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3 align="left">Random Dev Meme:</h3>
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<!-- <h3 align="left">Random Dev Meme:</h3>
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> -->
 
 ---
