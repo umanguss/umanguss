@@ -5,7 +5,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=umanguss&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="left"> <a href="https://twitter.com/umang_uss" target="blank"><img src="https://img.shields.io/twitter/follow/umang_uss?logo=twitter&style=for-the-badge" alt="umang_uss" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/umang_uss" target="blank"><img src="https://img.shields.io/twitter/follow/umang_uss?logo=twitter&style=for-the-badge" alt="umang_uss" /></a> </p> -->
 
 <!-- - 🌱 I’m currently learning **JS** -->
 
@@ -13,11 +13,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/umang_uss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umang_uss" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/umang_uss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umang_uss" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/umang-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/umang-singh" height="30" width="40" /></a>
 <a href="https://instagram.com/umang_uss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umang_uss" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/umanggsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="umanggsingh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/umang_31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="umang_31" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/umang_31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="umang_31" height="30" width="40" /></a> -->
 <a href="https://auth.geeksforgeeks.org/user/us706235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="us706235" height="30" width="40" /></a>
 </p>
 
